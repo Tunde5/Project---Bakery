@@ -1,0 +1,189 @@
+{
+  "company": "Incredible Bakery",
+  "logo": "https://incredible.local/logo.png",
+  "phone": "+447888654233",
+  "owner": "Maria Jackson, photo",
+  "social": [
+    "facebook.com/InBakery",
+    "youtube.com/InBakery",
+    "twitter.com/InBakery",
+    "instagram.com/InBakery"
+  ],
+  "vision": "Message from the owner",
+  "products": [
+    {
+      "title": "Classic Chocolate Cake",
+      "description": "A decadent chocolate cake that melts in your mouth, perfect for any chocolate lover.",
+      "price": "£25.99",
+      "image_url": "https://example.com/classic_chocolate_cake.png"
+    },
+    {
+      "title": "Blueberry Muffins",
+      "description": "Moist and bursting with fresh blueberries, our muffins make a delightful breakfast treat.",
+      "price": "£2.49",
+      "image_url": "https://example.com/blueberry_muffins.png"
+    },
+    {
+      "title": "Butter Croissants",
+      "description": "Flaky and buttery croissants, perfect for a quick and indulgent snack.",
+      "price": "£1.99",
+      "image_url": "https://example.com/butter_croissants.png"
+    },
+    {
+      "title": "Red Velvet Cupcakes",
+      "description": "Velvety smooth cupcakes with a hint of cocoa, topped with cream cheese frosting.",
+      "price": "£3.99",
+      "image_url": "https://example.com/red_velvet_cupcakes.png"
+    },
+    {
+      "title": "Sourdough Bread Loaf",
+      "description": "Our artisanal sourdough bread is made with a natural starter for a tangy flavor and chewy crust.",
+      "price": "£4.49",
+      "image_url": "https://example.com/sourdough_bread.png"
+    },
+    {
+      "title": "Chocolate Chip Cookies",
+      "description": "Soft and chewy cookies loaded with rich chocolate chips, a classic favorite.",
+      "price": "£6.99",
+      "image_url": "https://example.com/chocolate_chip_cookies.png"
+    },
+    {
+      "title": "Fruit Danish Pastries",
+      "description": "Flaky pastries filled with a variety of seasonal fruits, perfect for brunch or dessert.",
+      "price": "£2.99",
+      "image_url": "https://example.com/fruit_danish_pastries.png"
+    },
+    {
+      "title": "Cinnamon Rolls",
+      "description": "Warm, gooey cinnamon rolls with a generous drizzle of cream cheese frosting.",
+      "price": "£4.99",
+      "image_url": "https://example.com/cinnamon_rolls.png"
+    },
+    {
+      "title": "Lemon Tart",
+      "description": "Tangy lemon curd nestled in a buttery tart shell, a refreshing dessert option.",
+      "price": "£7.49",
+      "image_url": "https://example.com/lemon_tart.png"
+    },
+    {
+      "title": "Cherry Almond Scones",
+      "description": "Tender scones studded with juicy cherries and almond slices, perfect with tea.",
+      "price": "£3.29",
+      "image_url": "https://example.com/cherry_almond_scones.png"
+    },
+    {
+      "title": "Chocolate Eclairs",
+      "description": "Delicate pastry shells filled with rich chocolate cream and topped with chocolate glaze.",
+      "price": "£4.79",
+      "image_url": "https://example.com/chocolate_eclairs.png"
+    },
+    {
+      "title": "Pecan Pie",
+      "description": "A classic Southern pecan pie with a buttery crust and a sweet, nutty filling.",
+      "price": "£12.99",
+      "image_url": "https://example.com/pecan_pie.png"
+    },
+    {
+      "title": "Raspberry Macarons",
+      "description": "Light and airy macarons filled with luscious raspberry buttercream.",
+      "price": "£2.99",
+      "image_url": "https://example.com/raspberry_macarons.png"
+    },
+    {
+      "title": "Baguette",
+      "description": "Crusty on the outside, soft on the inside, our baguette is a French classic.",
+      "price": "£2.49",
+      "image_url": "https://example.com/baguette.png"
+    },
+    {
+      "title": "Apple Pie",
+      "description": "A comforting apple pie with a flaky crust and a hint of cinnamon, perfect for sharing.",
+      "price": "£10.99",
+      "image_url": "https://example.com/apple_pie.png"
+    },
+    {
+      "title": "Oatmeal Raisin Cookies",
+      "description": "Hearty oatmeal cookies with plump raisins and a touch of cinnamon spice.",
+      "price": "£5.49",
+      "image_url": "https://example.com/oatmeal_raisin_cookies.png"
+    },
+    {
+      "title": "Strawberry Shortcake",
+      "description": "Layers of fluffy cake, fresh strawberries, and whipped cream create a delightful dessert.",
+      "price": "£8.99",
+      "image_url": "https://example.com/strawberry_shortcake.png"
+    },
+    {
+      "title": "Chocolate Babka",
+      "description": "A twisted bread filled with layers of chocolate and cinnamon, a sweet indulgence.",
+      "price": "£6.49",
+      "image_url": "https://example.com/chocolate_babka.png"
+    },
+    {
+      "title": "Cranberry Walnut Bread",
+      "description": "Nutty and slightly tart, our cranberry walnut bread is perfect for toasting.",
+      "price": "£3.99",
+      "image_url": "https://example.com/cranberry_walnut_bread.png"
+    },
+    {
+      "title": "Lava Chocolate Cake",
+      "description": "A molten chocolate center makes our lava cake an irresistible dessert choice.",
+      "price": "£7.99",
+      "image_url": "https://example.com/lava_chocolate_cake.png"
+    },
+    {
+      "title": "Pumpkin Pie",
+      "description": "A seasonal favorite with a spiced pumpkin filling and flaky pastry crust.",
+      "price": "£9.99",
+      "image_url": "https://example.com/pumpkin_pie.png"
+    },
+    {
+      "title": "Vanilla Cream Puffs",
+      "description": "Light pastry puffs filled with vanilla cream and dusted with powdered sugar.",
+      "price": "£4.29",
+      "image_url": "https://example.com/vanilla_cream_puffs.png"
+    }
+  ],
+  "services": [
+    {
+      "title": "Custom Cake Creations",
+      "description": "Indulge in our exquisite custom cakes tailored to your taste and theme, perfect for birthdays, weddings, and special occasions."
+    },
+    {
+      "title": "Gourmet Cupcake Delights",
+      "description": "Elevate your event with our delectable assortment of gourmet cupcakes, available in various flavors and beautifully decorated."
+    },
+    {
+      "title": "Artisanal Dessert Platters",
+      "description": "Impress your guests with our handcrafted dessert platters, featuring a delightful selection of cookies, tarts, and pastries."
+    },
+    {
+      "title": "Breakfast Pastry Buffet",
+      "description": "Start your day on a sweet note with our breakfast pastry buffet, offering a range of freshly baked croissants, muffins, and Danish pastries."
+    },
+    {
+      "title": "Afternoon Tea Service",
+      "description": "Experience the elegance of afternoon tea with our assortment of scones, petit fours, and finger sandwiches, perfect for a refined gathering."
+    },
+    {
+      "title": "Doughnut Extravaganza",
+      "description": "Satisfy your sweet cravings with our doughnut extravaganza, featuring a variety of gourmet doughnuts, both classic and inventive."
+    },
+    {
+      "title": "Cookie Decorating Workshops",
+      "description": "Get creative with our cookie decorating workshops, suitable for all ages, where you can decorate and take home your edible masterpieces."
+    },
+    {
+      "title": "Dessert Catering for Corporate Events",
+      "description": "Impress clients and colleagues with our dessert catering for corporate events, offering an array of sophisticated sweets."
+    },
+    {
+      "title": "Holiday Season Dessert Buffet",
+      "description": "Celebrate the festive season with our holiday dessert buffet, featuring seasonal treats like Yule logs, gingerbread, and more."
+    },
+    {
+      "title": "Gluten-Free and Vegan Options",
+      "description": "We cater to all dietary preferences with our gluten-free and vegan dessert options, ensuring everyone can enjoy our delectable treats."
+    }
+  ]
+}
