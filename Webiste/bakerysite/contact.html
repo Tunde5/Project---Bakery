@@ -18,21 +18,26 @@
 <!--Contact form--------------------------------->
 
 <div class="">
-  <h2 class="form_title">
-    Contact Form.
-  </h2>
-  <div class="form_description">
-    Please fill up the form, and once we receive your message will get back to you soon as possible.
-  </div>
-  <div class="name">
-    Full name: <input type="text" />
-  </div>
-  <div class="mobile">
-    Mobile number: <input type="text" />
-  </div>
-  <div class="message">
-    Message <textarea />
-  </div>
+  <form action="post_office.py">
+    <h2 class="form_title">
+      Contact Form.
+    </h2>
+    <div class="form_description">
+      Please fill up the form, and once we receive your message will get back to you soon as possible.
+    </div>
+    <div class="name">
+      <span>Full name</span> <input type="text" name="form_name" />
+    </div>
+    <div class="mobile">
+      <span>Mobile number</span> <input type="text" name="form_mobile" />
+    </div>
+    <div class="message">
+      <span>Message</span> <textarea name="form_message"></textarea>
+    </div>
+    <div class="send">
+      <input type="submit">Submit</input>
+    </div>
+  </form>
 
 </div>
 
