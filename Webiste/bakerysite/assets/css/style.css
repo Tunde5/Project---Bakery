@@ -14,3 +14,24 @@ header {
   padding: 50px;
   margin-bottom: 50px;
 }
+
+footer {
+  border-top: 5px solid #a5a5a5;
+  padding-top: 20px;
+  margin-top: 50px;
+  text-align: center;
+}
+
+footer a {
+  padding: 10px;
+}
+
+a {
+  color: #8f3206;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #065b8f;
+  text-decoration: dotted;
+}
