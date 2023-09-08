@@ -182,57 +182,55 @@
       "description": "Celebrate the festive season with our holiday dessert buffet, featuring seasonal treats like Yule logs, gingerbread, and more."
     },
     {
+      "title": "Custom Cake Creations",
+      "description": "Indulge in our exquisite custom cakes tailored to your taste and theme, perfect for birthdays, weddings, and special occasions.",
+      "image_url": "https://example.com/custom_cake_creations.png"
+    },
+    {
+      "title": "Gourmet Cupcake Delights",
+      "description": "Elevate your event with our delectable assortment of gourmet cupcakes, available in various flavors and beautifully decorated.",
+      "image_url": "https://example.com/gourmet_cupcake_delights.png"
+    },
+    {
+      "title": "Artisanal Dessert Platters",
+      "description": "Impress your guests with our handcrafted dessert platters, featuring a delightful selection of cookies, tarts, and pastries.",
+      "image_url": "https://example.com/artisanal_dessert_platters.png"
+    },
+    {
+      "title": "Breakfast Pastry Buffet",
+      "description": "Start your day on a sweet note with our breakfast pastry buffet, offering a range of freshly baked croissants, muffins, and Danish pastries.",
+      "image_url": "https://example.com/breakfast_pastry_buffet.png"
+    },
+    {
+      "title": "Afternoon Tea Service",
+      "description": "Experience the elegance of afternoon tea with our assortment of scones, petit fours, and finger sandwiches, perfect for a refined gathering.",
+      "image_url": "https://example.com/afternoon_tea_service.png"
+    },
+    {
+      "title": "Doughnut Extravaganza",
+      "description": "Satisfy your sweet cravings with our doughnut extravaganza, featuring a variety of gourmet doughnuts, both classic and inventive.",
+      "image_url": "https://example.com/doughnut_extravaganza.png"
+    },
+    {
+      "title": "Cookie Decorating Workshops",
+      "description": "Get creative with our cookie decorating workshops, suitable for all ages, where you can decorate and take home your edible masterpieces.",
+      "image_url": "https://example.com/cookie_decorating_workshops.png"
+    },
+    {
+      "title": "Dessert Catering for Corporate Events",
+      "description": "Impress clients and colleagues with our dessert catering for corporate events, offering an array of sophisticated sweets.",
+      "image_url": "https://example.com/dessert_catering_for_corporate_events.png"
+    },
+    {
+      "title": "Holiday Season Dessert Buffet",
+      "description": "Celebrate the festive season with our holiday dessert buffet, featuring seasonal treats like Yule logs, gingerbread, and more.",
+      "image_url": "https://example.com/holiday_season_dessert_buffet.png"
+    },
+    {
       "title": "Gluten-Free and Vegan Options",
-      "desc{
-        "title": "Custom Cake Creations",
-        "description": "Indulge in our exquisite custom cakes tailored to your taste and theme, perfect for birthdays, weddings, and special occasions.",
-        "image_url": "https://example.com/custom_cake_creations.png"
-      },
-      {
-        "title": "Gourmet Cupcake Delights",
-        "description": "Elevate your event with our delectable assortment of gourmet cupcakes, available in various flavors and beautifully decorated.",
-        "image_url": "https://example.com/gourmet_cupcake_delights.png"
-      },
-      {
-        "title": "Artisanal Dessert Platters",
-        "description": "Impress your guests with our handcrafted dessert platters, featuring a delightful selection of cookies, tarts, and pastries.",
-        "image_url": "https://example.com/artisanal_dessert_platters.png"
-      },
-      {
-        "title": "Breakfast Pastry Buffet",
-        "description": "Start your day on a sweet note with our breakfast pastry buffet, offering a range of freshly baked croissants, muffins, and Danish pastries.",
-        "image_url": "https://example.com/breakfast_pastry_buffet.png"
-      },
-      {
-        "title": "Afternoon Tea Service",
-        "description": "Experience the elegance of afternoon tea with our assortment of scones, petit fours, and finger sandwiches, perfect for a refined gathering.",
-        "image_url": "https://example.com/afternoon_tea_service.png"
-      },
-      {
-        "title": "Doughnut Extravaganza",
-        "description": "Satisfy your sweet cravings with our doughnut extravaganza, featuring a variety of gourmet doughnuts, both classic and inventive.",
-        "image_url": "https://example.com/doughnut_extravaganza.png"
-      },
-      {
-        "title": "Cookie Decorating Workshops",
-        "description": "Get creative with our cookie decorating workshops, suitable for all ages, where you can decorate and take home your edible masterpieces.",
-        "image_url": "https://example.com/cookie_decorating_workshops.png"
-      },
-      {
-        "title": "Dessert Catering for Corporate Events",
-        "description": "Impress clients and colleagues with our dessert catering for corporate events, offering an array of sophisticated sweets.",
-        "image_url": "https://example.com/dessert_catering_for_corporate_events.png"
-      },
-      {
-        "title": "Holiday Season Dessert Buffet",
-        "description": "Celebrate the festive season with our holiday dessert buffet, featuring seasonal treats like Yule logs, gingerbread, and more.",
-        "image_url": "https://example.com/holiday_season_dessert_buffet.png"
-      },
-      {
-        "title": "Gluten-Free and Vegan Options",
-        "description": "We cater to all dietary preferences with our gluten-free and vegan dessert options, ensuring everyone can enjoy our delectable treats.",
-        "image_url": "https://example.com/gluten_free_and_vegan_options.png"
-      }ription": "We cater to all dietary preferences with our gluten-free and vegan dessert options, ensuring everyone can enjoy our delectable treats."
-    }
-  ]
+      "description": "We cater to all dietary preferences with our gluten-free and vegan dessert options, ensuring everyone can enjoy our delectable treats.",
+      "image_url": "https://example.com/gluten_free_and_vegan_options.png"
+    }ription": "We cater to all dietary preferences with our gluten-free and vegan dessert options, ensuring everyone can enjoy our delectable treats."
+  }
+]
 }
