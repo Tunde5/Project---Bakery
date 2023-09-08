@@ -108,3 +108,35 @@ img.profile {
 .slide {
   margin-bottom: 50px;
 }
+
+.list {
+  list-style: none;
+  overflow: hidden;
+  padding: 0;
+}
+
+.list li {
+  border-bottom: 1px solid #065b8f;
+  overflow: auto;
+  padding: 20px;
+}
+
+.list li:last-of-type {
+  border-bottom: none;
+}
+
+.list .title {
+  font-weight: bold;
+}
+
+.list .description {
+  color: rgb(75, 1, 1);
+}
+
+.list .price {
+  font-weight: bold;
+}
+
+.list img {
+  margin-top: 20px
+}
