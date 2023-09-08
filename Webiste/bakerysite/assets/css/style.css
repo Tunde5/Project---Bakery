@@ -96,7 +96,15 @@ textarea {
   margin-top: 50px;
 }
 
+img {
+  max-width: 100%;
+}
+
 img.profile {
   float: left;
   padding: 20px;
+}
+
+.slide {
+  margin-bottom: 50px;
 }
