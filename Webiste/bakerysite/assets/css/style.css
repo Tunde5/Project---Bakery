@@ -7,12 +7,14 @@ body {
   margin: auto;
   background: white;
   padding: 50px;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 header {
   background-color: beige;
   padding: 50px;
   margin-bottom: 50px;
+  text-align: center;
 }
 
 footer {
@@ -34,4 +36,14 @@ a {
 a:hover {
   color: #065b8f;
   text-decoration: dotted;
+}
+
+.brand {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+}
+
+.mobile {
+  opacity: 0.8;
 }
