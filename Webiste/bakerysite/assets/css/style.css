@@ -64,3 +64,26 @@ nav a:hover {
   color: rgb(255, 255, 255);
 
 }
+
+form {
+  margin-top: 50px;
+}
+
+
+form div {
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+input {
+  width: 100%;
+  max-width: 500px;
+  /* height: 20px; */
+  line-height: 2;
+}
+
+textarea {
+  height: 200px;
+  width: 100%;
+  max-width: 500px;
+}
