@@ -1,10 +1,16 @@
-* {
-  margin: 0;
-  padding: 0;
-
+html {
+  background: lightgrey;
 }
 
-.style1 {
-  color: brown;
-  text-decoration: underline;
+body {
+  max-width: 800px;
+  margin: auto;
+  background: white;
+  padding: 50px;
+}
+
+header {
+  background-color: beige;
+  padding: 50px;
+  margin-bottom: 50px;
 }
