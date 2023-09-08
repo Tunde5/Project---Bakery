@@ -13,7 +13,6 @@ body {
 header {
   background-color: beige;
   padding: 50px;
-  margin-bottom: 50px;
   text-align: center;
 }
 
@@ -46,4 +45,22 @@ a:hover {
 
 .mobile {
   opacity: 0.8;
+}
+
+nav {
+  background: #a7020a;
+  color: black;
+  padding: 20px 10px;
+  margin-bottom: 50px;
+  text-align: center;
+}
+
+nav a {
+  color: rgb(238, 238, 238);
+  margin: 0px 10px;
+}
+
+nav a:hover {
+  color: rgb(255, 255, 255);
+
 }
