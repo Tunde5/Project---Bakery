@@ -2,44 +2,44 @@
 
 ## Replace dummy images with Pexels generated images.
 
-![](<Screenshots/Screenshot (78).png>)
+![](http://localhost:8000/Docs/Documentation/Screenshots/Screenshot%20(78).png)
 
 ## Doc: Generate images using Pexels API.
 
-![](<Screenshots/Screenshot (85).png>) 
-![](<Screenshots/Screenshot (84).png>) 
-![](<Screenshots/Screenshot (82).png>) 
-![](<Screenshots/Screenshot (79).png>) 
-![](<Screenshots/Screenshot (88).png>)
+![](http://localhost:8000/Docs/Documentation/Screenshots/Screenshot%20(85).png) 
+![](http://localhost:8000/Docs/Documentation/Screenshots/Screenshot%20(84).png) 
+![](http://localhost:8000/Docs/Documentation/Screenshots/Screenshot%20(82).png) 
+![](http://localhost:8000/Docs/Documentation/Screenshots/Screenshot%20(79).png) 
+![](http://localhost:8000/Docs/Documentation/Screenshots/Screenshot%20(88).png)
 
-![](<Screenshots/Screenshot (64).png>) 
-![](<Screenshots/Screenshot (61).png>) 
-![](<Screenshots/Screenshot (68).png>)
-![](<Screenshots/Screenshot (60).png>) 
-![](<Screenshots/Screenshot (58).png>)
+![](http://localhost:8000/Docs/Documentation/Screenshots/Screenshot%20(64).png) 
+![](http://localhost:8000/Docs/Documentation/Screenshots/Screenshot%20(61).png) 
+![](http://localhost:8000/Docs/Documentation/Screenshots/Screenshot%20(68).png)
+![](http://localhost:8000/Docs/Documentation/Screenshots/Screenshot%20(60).png) 
+![](http://localhost:8000/Docs/Documentation/Screenshots/Screenshot%20(58).png)
 
-![](<Screenshots/Screenshot (56).png>) 
-![](<Screenshots/Screenshot (54).png>) 
-![](<Screenshots/Screenshot (46).png>) 
+![](http://localhost:8000/Docs/Documentation/Screenshots/Screenshot%20(56).png) 
+![](http://localhost:8000/Docs/Documentation/Screenshots/Screenshot%20(54).png) 
+![](http://localhost:8000/Docs/Documentation/Screenshots/Screenshot%20(46).png) 
 
 ## Create project documentation markdown file.
 
-![](<Screenshots/Screenshot (43).png>)
+![](http://localhost:8000/Docs/Documentation/Screenshots/Screenshot%20(43).png)
 
 ## Create documentation markdown file.
 ## Update dummy images style.
 
 ## Display owner profile picture.
-![](<profile.png)
+![](http://localhost:8000/Docs/Documentation/Screenshots/profile.png)
 
 ## Show social media icons in footer.
 
 ## Display company logo.
-![](<Screenshots/Screenshot (44).png>)
-![](<Screenshots/Screenshot (36).png>) 
+![](http://localhost:8000/Docs/Documentation/Screenshots/Screenshot%20(44).png)
+![](http://localhost:8000/Docs/Documentation/Screenshots/Screenshot%20(36).png) 
 ## Style products and services listing.
 
-![](<Screenshots/Screenshot (35).png>)
+![](http://localhost:8000/Docs/Documentation/Screenshots/Screenshot%20(35).png)
 ## Style slides on index page.
 ## Use article code for the message.
 
@@ -51,62 +51,62 @@
 
 ## Centered and style header.
 
-![](<Screenshots/Screenshot (30).png>) 
-![](<Screenshots/Screenshot (29).png>)
+![](http://localhost:8000/Docs/Documentation/Screenshots/Screenshot%20(30).png) 
+![](http://localhost:8000/Docs/Documentation/Screenshots/Screenshot%20(29).png)
 ## Style the footer, and links.
 
 ## Style the page and header.
-![](<Screenshots/Screenshot (25).png>)
+![](http://localhost:8000/Docs/Documentation/Screenshots/Screenshot%20(25).png)
 
-![](<Screenshots/Screenshot (24).png>) 
+![](http://localhost:8000/Docs/Documentation/Screenshots/Screenshot%20(24).png) 
 ## Social links are working in the footer.
 
 ## Show generated images.
 
-![](<Screenshots/Screenshot (18).png>)
-![](<Screenshots/Screenshot (20).png>)
+![](http://localhost:8000/Docs/Documentation/Screenshots/Screenshot%20(18).png)
+![](http://localhost:8000/Docs/Documentation/Screenshots/Screenshot%20(20).png)
 
 ## List services.
 ## Added products.
 
-![](<Screenshots/Screenshot (16).png>) 
-![](<Screenshot 2023-09-03 133818.png>)
+![](http://localhost:8000/Docs/Documentation/Screenshots/Screenshot%20(16).png) 
+![](http://localhost:8000/Docs/Documentation/Screenshots/Screenshot 2023-09-03 133818.png)
 
 ## Added contact form.
 ## Contact form is working now.
-![](<Screenshots/Screenshot (31).png>)
+![](http://localhost:8000/Docs/Documentation/Screenshots/Screenshot%20(31).png)
 ## Updated brand classes.
 
 ## Added social media links in footer.
-![](<Screenshots/Screenshot (41).png>)
-![](<Screenshots/Screenshot (40).png>) 
+![](http://localhost:8000/Docs/Documentation/Screenshots/Screenshot%20(41).png)
+![](http://localhost:8000/Docs/Documentation/Screenshots/Screenshot%20(40).png) 
 
 ## code was added
 
 ## generated 3 html sites
 
-## #footer eded
+## #footer added
 
 ## Create index file.
 
  
- ![](<Screenshots/Screenshot (19).png>)
+ ![](http://localhost:8000/Docs/Documentation/Screenshots/Screenshot%20(19).png)
  
 ## Restructure website folders.
 
 
 ## Create database for the bakery.
-![](<generate services in json.png>) 
-![](<generate services.png>)
+![](http://localhost:8000/Docs/Documentation/Screenshots/generate services in json.png) 
+![](http://localhost:8000/Docs/Documentation/Screenshots/generate services.png)
 
-![](<genarete product pricing.png>) 
-![](<generate products.png>)
+![](http://localhost:8000/Docs/Documentation/Screenshots/genarete product pricing.png) 
+![](http://localhost:8000/Docs/Documentation/Screenshots/generate products.png)
 
 ## Create a todo list.
 
-![](<Screenshots/Screenshot (46).png>)
+![](http://localhost:8000/Docs/Documentation/Screenshots/Screenshot%20(46).png)
 
 ## Add documents, and initial website html..
-![](<Screenshots/Screenshot (13).png>)
+![](http://localhost:8000/Docs/Documentation/Screenshots/Screenshot%20(13).png)
 
 ## Create .gitignore
