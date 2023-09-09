@@ -1,206 +1,118 @@
+## Store pexel images locally in the project asses.
 
+## Replace dummy images with Pexels generated images.
 
+![](<Screenshots/Screenshot (78).png>)
+
+## Doc: Generate images using Pexels API.
+
+![](<Screenshots/Screenshot (85).png>) 
+![](<Screenshots/Screenshot (84).png>) 
+![](<Screenshots/Screenshot (82).png>) 
+![](<Screenshots/Screenshot (79).png>) 
+![](<Screenshots/Screenshot (88).png>)
+
+![](<Screenshots/Screenshot (64).png>) 
+![](<Screenshots/Screenshot (61).png>) 
+![](<Screenshots/Screenshot (68).png>)
+![](<Screenshots/Screenshot (60).png>) 
+![](<Screenshots/Screenshot (58).png>)
+
+![](<Screenshots/Screenshot (56).png>) 
+![](<Screenshots/Screenshot (54).png>) 
+![](<Screenshots/Screenshot (46).png>) 
+
+## Doc: Logo display.
+
+![](<Screenshots/Screenshot (44).png>)
+## Create project documentation markdown file.
+
+![](<Screenshots/Screenshot (43).png>)
+
+## Create documentation markdown file.
 ## Update dummy images style.
 
-See screenshot images.
-![Alt text](<Screenshot (44).png>)
-
-
+![](<Screenshots/Screenshot (44).png>)
 
 ## Display owner profile picture.
-
-See screenshot images.
-
-![Alt text](profile.png)
-
-
+![](profile.png)
 
 ## Show social media icons in footer.
 
-See screenshot images.
-
-
-
 ## Display company logo.
-
-See screenshot images.
-
-
-
-## List products and services in grid layout.
-
-See screenshot images.
-
-
-
+See screenshot images
+![](<Screenshots/Screenshot (36).png>) 
 ## Style products and services listing.
 
-See screenshot images.
-
-
-
+![](<Screenshots/Screenshot (35).png>)
 ## Style slides on index page.
-
-See screenshot images.
-
-
-
 ## Use article code for the message.
-
-See screenshot images.
-
-
 
 ## Style the message of the founder.
 
-See screenshot images.
-
-
-
 ## Style contact form.
-
-See screenshot images.
-
-
 
 ## Show navigation.
 
-See screenshot images.
-
-
-
 ## Centered and style header.
 
-See screenshot images.
-
-
-
+![](<Screenshots/Screenshot (30).png>) 
+![](<Screenshots/Screenshot (29).png>)
 ## Style the footer, and links.
 
-See screenshot images.
-
-
-
 ## Style the page and header.
+![](<Screenshots/Screenshot (25).png>)
 
-See screenshot images.
-
-
-
-## Fix database json.
-
-See screenshot images.
-
-
-
+![](<Screenshots/Screenshot (24).png>) 
 ## Social links are working in the footer.
-
-See screenshot images.
-
-
 
 ## Show generated images.
 
-See screenshot images.
-
-
+![](<Screenshots/Screenshot (18).png>) 
+![](<Screenshots/Screenshot (25).png>) 
+![](<Screenshots/Screenshot (20).png>)
 
 ## List services.
-
-See screenshot images.
-
-
-
 ## Added products.
 
-See screenshot images.
-
-
-
-## Fix the header on the pages.
-
-See screenshot images.
-
-
-
-## Contact form is working now.
-
-See screenshot images.
-
-
+![](<Screenshots/Screenshot (16).png>) 
+![](<Screenshot 2023-09-03 133818.png>)
 
 ## Added contact form.
-
-See screenshot images.
-
-
-
+## Contact form is working now.
+![](<Screenshots/Screenshot (31).png>)
 ## Updated brand classes.
 
-See screenshot images.
-
-
-
 ## Added social media links in footer.
-
-See screenshot images.
-
-
+![](<Screenshots/Screenshot (41).png>)
+![](<Screenshots/Screenshot (40).png>) 
 
 ## code was added
 
-See screenshot images.
-
-
-
 ## generated 3 html sites
-
-See screenshot images.
-
-
 
 ## #footer eded
 
-See screenshot images.
-
-
-
 ## Create index file.
 
-See screenshot images.
-
-
-
+ 
+ ![](<Screenshots/Screenshot (19).png>)
+ 
 ## Restructure website folders.
-
-See screenshot images.
-
-
-
-## Reorganize files.
-
-See screenshot images.
-
 
 
 ## Create database for the bakery.
+![](<generate services in json.png>) 
+![](<generate services.png>)
 
-See screenshot images.
-
-
+![](<genarete product pricing.png>) 
+![](<generate products.png>)
 
 ## Create a todo list.
 
-See screenshot images.
-
-
+![](<Screenshots/Screenshot (46).png>)
 
 ## Add documents, and initial website html..
-
-See screenshot images.
-
-
+![](<Screenshots/Screenshot (13).png>)
 
 ## Create .gitignore
-
-See screenshot images.
