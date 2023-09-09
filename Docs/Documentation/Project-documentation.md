@@ -22,9 +22,6 @@
 ![](<Screenshots/Screenshot (54).png>) 
 ![](<Screenshots/Screenshot (46).png>) 
 
-## Doc: Logo display.
-
-![](<Screenshots/Screenshot (44).png>)
 ## Create project documentation markdown file.
 
 ![](<Screenshots/Screenshot (43).png>)
@@ -32,15 +29,13 @@
 ## Create documentation markdown file.
 ## Update dummy images style.
 
-![](<Screenshots/Screenshot (44).png>)
-
 ## Display owner profile picture.
-![](profile.png)
+![](<profile.png)
 
 ## Show social media icons in footer.
 
 ## Display company logo.
-See screenshot images
+![](<Screenshots/Screenshot (44).png>)
 ![](<Screenshots/Screenshot (36).png>) 
 ## Style products and services listing.
 
@@ -68,8 +63,7 @@ See screenshot images
 
 ## Show generated images.
 
-![](<Screenshots/Screenshot (18).png>) 
-![](<Screenshots/Screenshot (25).png>) 
+![](<Screenshots/Screenshot (18).png>)
 ![](<Screenshots/Screenshot (20).png>)
 
 ## List services.
